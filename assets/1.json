@@ -1,0 +1,19 @@
+{
+    "name": "onyx³ #0001",
+    "symbol": "",
+    "image": "1.gif",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        }
+      ],
+      "creators": [
+        {
+          "address": "6R3NdmuvqY7QvT7PwVokxXqBSp23MEDB3Q3pTMpLWowV",
+          "share": 100
+        }
+      ]
+    }
+  }
